@@ -1,0 +1,22 @@
+torch
+#pytorch-lightning
+torchvision
+
+# 0 GPU
+# https://dstack.ai/parmarjigar/runs/selfish-warthog-1
+# https://dstack.ai/parmarjigar/jobs/2cc7e7751476
+
+# 2 GPUs
+# https://dstack.ai/parmarjigar/runs/quiet-cow-1
+# https://dstack.ai/parmarjigar/jobs/a90713d11e1d
+
+# 3 GPUs
+# https://dstack.ai/parmarjigar/runs/quick-squid-1
+# https://dstack.ai/parmarjigar/jobs/748de48109ab
+
+
+# failed without any traceback
+# https://dstack.ai/parmarjigar/jobs/c06dfdabbdb9
+
+# different name file error
+# https://dstack.ai/parmarjigar/runs/serious-horse-1
